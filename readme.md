@@ -17,7 +17,6 @@ Tool	Purpose
 Pandas	Data exploration and wrangling
 Matplotlib	Basic plotting
 Seaborn	Statistical visualizations
-Power BI	Interactive dashboards & geo-mapping
 GeoPandas / Folium (optional)	Mapping and spatial analysis
 
 EDA Objectives
@@ -26,11 +25,5 @@ Map city density by country and continent
 Visualize population distributions across regions
 
 Identify urbanization trends by population size
-
-Use Power BI for interactive visuals (heatmaps, drill-downs, filters)
-
-
-
-
 
 https://www.kaggle.com/datasets/juanmah/world-cities
